@@ -7,5 +7,5 @@ A website that allows users to take photobooth images, choose a frame and filter
 - Live Webcam Capture : to take a series of phots directly in the browser using the user device.
 - Frames : Choose from a variety of decorative frames.
 - Stickers : apply cute stickers onto your photostrips!
-- Download your strick : Export your finished strip as high-quality PNG image ready to share and print.
+- Download your strip : Export your finished strip as high-quality PNG image ready to share and print.
 
