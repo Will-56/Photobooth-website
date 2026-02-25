@@ -21,7 +21,8 @@ body {
 }
 
 .photo-container { 
-    position: relative; display: inline-block; 
+    position: relative; 
+    display: inline-block; 
 } 
 .foreground-photo {
   width: 800px;        /* adjust size here */
@@ -49,3 +50,13 @@ body {
     color:#FEE9E7;
 }
 
+#overlay {
+      position: fixed;
+      top: 34%;
+      right: 29%;
+      width: 350px;
+      /* object-fit: cover; */
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.4s ease;
+}
